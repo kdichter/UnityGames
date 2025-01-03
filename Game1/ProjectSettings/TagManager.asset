@@ -1,0 +1,110 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Character
+  - OneWayPlatform
+  - Chest
+  - cannonBall
+  - PowerUp
+  - Sword
+  - movingPlatform
+  - Enemy
+  - HealthManager
+  - HealthPack
+  - HealthChest
+  - Slime
+  - Knight
+  - Skeleton
+  - Cave1
+  - Cave2
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Background
+  - Foreground
+  - Platforms
+  - Walls
+  - Slopes
+  - SpecialAttacks
+  - Enemy
+  - Player
+  - Cave
+  - Hitbox
+  - Sword
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Bg6
+    uniqueID: 2117919385
+    locked: 0
+  - name: Bg5
+    uniqueID: 3712347483
+    locked: 0
+  - name: Bg4
+    uniqueID: 3619949479
+    locked: 0
+  - name: Bg3
+    uniqueID: 207840483
+    locked: 0
+  - name: Bg2
+    uniqueID: 2992357603
+    locked: 0
+  - name: Bg1
+    uniqueID: 3164950083
+    locked: 0
+  - name: CaveBG
+    uniqueID: 1128127151
+    locked: 0
+  - name: Decor3
+    uniqueID: 1542235545
+    locked: 0
+  - name: Decor2
+    uniqueID: 3344018829
+    locked: 0
+  - name: Decor1
+    uniqueID: 2467572225
+    locked: 0
+  - name: Decor0
+    uniqueID: 2681234897
+    locked: 0
+  - name: Bg0
+    uniqueID: 233166777
+    locked: 0
+  - name: Fg
+    uniqueID: 1009742879
+    locked: 0
+  - name: Fg_Other
+    uniqueID: 357435657
+    locked: 0
+  - name: Spikes
+    uniqueID: 2893730513
+    locked: 0
+  - name: Walls
+    uniqueID: 3255336481
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Player
+    uniqueID: 1801188855
+    locked: 0
